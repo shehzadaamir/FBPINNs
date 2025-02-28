@@ -1,5 +1,5 @@
 # Finite basis physics-informed neural networks (FBPINNs)
-
+A
 ---
 
 This repository allows you to solve forward and inverse problems related to partial differential equations (PDEs) using **finite basis physics-informed neural networks** (FBPINNs).
